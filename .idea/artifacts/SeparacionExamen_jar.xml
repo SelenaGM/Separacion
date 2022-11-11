@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SeparacionExamen:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SeparacionExamen_jar</output-path>
+    <root id="archive" name="SeparacionExamen.jar">
+      <element id="module-output" name="SeparacionExamen" />
+    </root>
+  </artifact>
+</component>
